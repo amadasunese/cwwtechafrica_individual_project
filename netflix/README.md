@@ -23,7 +23,7 @@ steps:
 <li>Create a DataFrame durations_df using your movie_dict dictionary you created in the previous step.</li>
 <li>Print the entire DataFrame.</li>
 </ol>
-<p><h3>Task 3</h3>,/p>
+<p><h3>Task 3</h3></p>
 <ol>
 <li>Import matplotlib.pyplot under the alias plt.</li>
 <li>Create a line plot of the data with the years column of durations_df on the xaxis, and the durations column on the y-axis.</li>
@@ -50,6 +50,7 @@ steps:
 <ol>
 <li>Subset netflix_movies_col_subset to create a new DataFrame short_movies containing only movies that have a duration fewer than 60 minutes.</li>
 <li>Print the first 20 rows of short_movies to get a good overview of the types of films with a short duration.</li>
+</ol>
 <p><h3>Task 8</h3></p>
 <ol>
 <li>Initialize an empty list called colors to store our different color values.</li>
@@ -71,9 +72,11 @@ steps:
 <p><h3>Task 9</h3></p>
 <ol>
 <li>Using the data contained in netflix_movies_col_subset, plot the same scatter  plot as you did in Task 6, but with a few modifications:</li>
+<ul>
 <li>Color the points on the scatter plot using your colors list you defined in the previous step.</li>
 <li>Add a title "Movie duration by year of release", an x-axis label "Release year", and a y-axis label "Duration (min)".</li>
 <li>Show the plot.</li>
+</ul>
 </ol>
 <p><h3>Task 10</h3></p>
 <ol>
