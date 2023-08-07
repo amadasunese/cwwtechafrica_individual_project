@@ -10,10 +10,11 @@
 <h3>Task 1</h3>
 Use our friend's data to create a dictionary. To do so, you will need to perform the following 
 steps:
-<ul>
+<ol>
     <li>Create a list of years from 2011 to 2020 and a list durations of the average movie  lengths our friend provided (103, 101, 99, 100, 100, 95, 95, 96, 93, and 90).</li>
     <li>Create a dictionary movie_dict, with the keys "years" and "durations" and the values set to your lists years and durations.</li>
     <li>Print and inspect the dictionary to ensure it was created correctly</li>
+</ol>
 <p></p>
 
 <h3>Task 2</h3>
